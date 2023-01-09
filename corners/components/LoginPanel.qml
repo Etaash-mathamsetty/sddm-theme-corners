@@ -70,7 +70,7 @@ Item {
 
                 color: config.LoginButtonTextColor
                 opacity: 0.5
-                text: "Login!!"
+                text: "Log In"
             }
         
             background: Rectangle {
